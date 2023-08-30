@@ -1,0 +1,24 @@
+body{
+    padding: 15px;
+}
+#header{
+    background-color: lightblue;
+    height: 70px;
+}
+#imgl{
+    width: 100px;
+    height: 70px;
+    border-radius: 60%;
+    position: relative;
+    left: -400px;
+}
+#img{
+    width: 400px;
+    position: relative;
+    left: 500px;
+    height:70px; 
+}
+#nav{
+    background-color: bisque;
+    height: 50px;
+}
